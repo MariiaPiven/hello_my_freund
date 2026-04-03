@@ -3,3 +3,9 @@
 </p>
 <p> Переглянути вебзастосування можна за гіперпосиланням: <a href="https://mariiapiven.github.io/hello_my_freund/">
 https://mariiapiven.github.io/hello_my_freund/ </a> </p>
+<p> Для перегляду вебзастосування локально на комп’ютері послідовно виконайте наступні команди:</p>
+<ol>
+  <li> <code> git clone https://mariiapiven.github.io/hello_my_freund/ </code>, щоб клонувати репозиторій на локальний комп’ютер; </li>
+  <li> <code> cd hello-my-freund </code>, щоб перейти в папку hello-my-freund; </li>
+  <li> <code> start index.html </code>, щоб переглянути вебзастосування у браузері. </li>
+</ol>
